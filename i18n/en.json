@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "altarion"
+        ]
+    },
+    "leibniz": "Leibniz",
+    "leibniz-desc": "Integrates the SVG-Edit and Flint tools into the Wiki environment",
+    "leibniz-summary": "Integrates the SVG-Edit and Flint tools into the Wiki environment"
+}
