@@ -1,0 +1,88 @@
+#editorFrame{
+	height: 80%;
+}
+
+#editor_title{
+	/*font-family: "Linux Libertine",Georgia,Times,serif;*/
+	text-align: center;
+	font-size: 1.8em;
+    line-height: 1.3;
+    margin-bottom: 0.25em;
+    padding: 0;
+	
+}
+
+/*body{
+	height: 100%;
+	width: 100%;
+}*/
+
+#editorButtons{
+	position: absolute;
+	right: 9px;
+	bottom: 15px;
+}
+
+.editorButton{
+	float: left;
+	margin-top: 10px;
+}
+
+#parser_test{
+	position: absolute;
+	right: 14px;
+	bottom: 21px;
+}
+
+
+#flintEditorFrame{
+	position: absolute;
+	float: left;
+/*	left: 0px;
+	top: 26px;*/
+}
+
+#editor{
+	height: 97%;
+}
+
+#editor2{
+
+}
+
+.editorFrame{
+	height: 90%;
+	width: 50%;
+	min-width: 150px;
+	min-height: 700px;
+	max-height: 700px;
+}
+
+#parserResultFrame{
+	clear: both;
+	position: relative;
+	float: right;
+	/*margin-left: 0px;*/
+	/*position: relative;*/
+/*	width: 500px;
+	height: 700px;*/
+}
+
+
+#canvas{
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+
+#editorWrapper{
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+
+/*html{
+	width: 100%;
+	height: 100%;
+}*/
+

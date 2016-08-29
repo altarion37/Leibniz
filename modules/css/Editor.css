@@ -1,0 +1,36 @@
+#flintEditorFrame{
+	height: 80%;
+	width: 49%;
+}
+
+#editor_title{
+	/*font-family: "Linux Libertine",Georgia,Times,serif;*/
+	text-align: center;
+	font-size: 1.8em;
+    line-height: 1.3;
+    margin-bottom: 0.25em;
+    padding: 0;
+	
+}
+
+#body{
+	height: 100%;
+	width: 100%;
+}
+
+#editorButtons{
+	position: absolute;
+	right: 9px;
+	bottom: 15px;
+}
+
+.editorButton{
+	float: left;
+	margin-top: 10px;
+}
+
+#parser_test{
+	position: absolute;
+	right: 14px;
+	bottom: 21px;
+}
